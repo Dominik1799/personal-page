@@ -1,54 +1,64 @@
-baseurl = "https://dominik1799.github.io/personal-page/"
+baseURL = "https://dominik1799.github.io/personal-page/"
 title = "Dominik Horváth"
 theme = "hugo-coder"
-languagecode = "en"
-defaultcontentlanguage = "en"
-
+languageCode = "en"
+defaultContentLanguage = "en"
 paginate = 20
-
-disqusShortname = "dominik"
+enableEmoji = true
 
 [markup.highlight]
-style = "github-dark"
+noClasses = false
 
 [params]
-  author = "Dominik Horváth"
-  info = "Full Stack Developer"
-  description = "Personal website of Dominik Horváth"
-  avatarurl = "images/profile_pic.jpeg"
+author = "Dominik Horváth"
+avatarURL = "images/profile_pic.jpeg"
+dateFormat = "January 2, 2006"
+since = 2023
+colorScheme = "auto"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+
+customCSS = []
+customSCSS = []
+customJS = []
+customRemoteJS = []
 
 
-  since = 2023
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
 
-  enableTwemoji = true
-
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
-
-
-# Social links
 [[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/Dominik1799"
-[[params.social]]
-  name = "Linkedin"
-  icon = "fa fa-linkedin fa-2x"
-  weight = 2
-  url = "https://www.linkedin.com/in/dominik-horv%C3%A1th-05aa61213/"
-[[params.social]]
-  name = "Mail"
-  icon = "fa fa-envelope-o fa-2x"
-  weight = 3
-  url = "mailto:dominik.horvath@gmail.com"
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/Dominik1799"
 
-# Menu links
-[[menu.main]]
-  name = "CV"
-  weight = 1
-  url = "cv/"
-[[menu.main]]
-  name = "Blog"
-  weight = 2
-  url  = "blog/"
+[[params.social]]
+name = "Mail"
+icon = "fa fa-2x fa-envelope-o"
+weight = 2
+url = "mailto:dominik.horvath@gmail.com"
+
+[[params.social]]
+name = "Linkedin"
+icon = "fa fa-2x fa-linkedin"
+weight = 3
+url = "https://www.linkedin.com/in/dominik-horv%C3%A1th-05aa61213/"
+
+
+
+[languages.en]
+languageName = ":uk:"
+
+[[languages.en.menu.main]]
+name = "CV"
+weight = 1
+url = "cv/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "blog/"
