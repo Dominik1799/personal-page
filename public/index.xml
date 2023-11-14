@@ -1,29 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dominik Horváth</title>
-    <link>https://dominik1799.github.io/personal-page/</link>
-    <description>Recent content on Dominik Horváth</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://dominik1799.github.io/personal-page/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CV</title>
-      <link>https://dominik1799.github.io/personal-page/cv/</link>
-      <pubDate>Mon, 06 Nov 2023 19:14:54 +0100</pubDate>
-      <guid>https://dominik1799.github.io/personal-page/cv/</guid>
-      <description>EducationLink to headingSlovak university of technology in Bratislava, Faculty of Informatics and Information Technologies (FIIT STU)
-2018 - 2023
-I got my bachelor&amp;rsquo;s and master&amp;rsquo;s degree here. Master&amp;rsquo;s thesis focused on Data lake development with the use of GenAI
-Work experienceLink to headingPwC - Java backend developerLink to heading(02/2023 - present)
-My current job, working on microservices created in Java and Spring Boot. I work on a big project for US client, which is surprisingly using a lot of modern technologies - we are using Java 17 with Spring Boot 3, kubernetes infrastructure on Azure and Azure pipelines automating pretty much the whole software lifecycle.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://dominik1799.github.io/personal-page/index-about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dominik1799.github.io/personal-page/index-about/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>

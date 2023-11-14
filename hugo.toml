@@ -11,8 +11,10 @@ noClasses = false
 
 [params]
 author = "Dominik Horváth"
+info = "Full Stack software engineer"
 avatarURL = "images/profile_pic.jpeg"
 dateFormat = "January 2, 2006"
+description = "Dominik Horváth's personal website"
 since = 2023
 colorScheme = "auto"
 hideColorSchemeToggle = false
@@ -58,7 +60,3 @@ name = "CV"
 weight = 1
 url = "cv/"
 
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "blog/"

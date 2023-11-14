@@ -18,7 +18,7 @@ I got my bachelor's and master's degree here. Master's thesis focused on Data la
 
 *(02/2023 - present)*
 
-My current job, working on microservices created in Java and Spring Boot. I work on a big project for US client, which is surprisingly using a lot of modern technologies - we are using **Java 17** with **Spring Boot 3**, kubernetes infrastructure on **Azure** and **Azure pipelines** automating pretty much the whole software lifecycle. Other than Java I also did some one-time scripring jobs in bash or Python - stuff like migrating data from one database to another, transforming some data etc.
+My current job, working on microservices created in Java and Spring Boot. I work on a big project for US client, which is surprisingly using a lot of modern technologies - we are using **Java 17** with **Spring Boot 3**, kubernetes infrastructure on **Azure** and **Azure pipelines** automating pretty much the whole software lifecycle. Other than Java I also did some one-time scripting jobs in bash or Python - stuff like migrating data from one database to another, transforming some data etc.
 
 This job allowed me to focus much more on the backend side of things. I get more hands-on experience with enterprise software development.
 
