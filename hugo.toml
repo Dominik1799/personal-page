@@ -1,4 +1,4 @@
-baseurl = "https://dominik1799.github.io"
+baseurl = "https://dominik1799.github.io/personal-page/"
 title = "Dominik Horváth"
 theme = "hugo-coder"
 languagecode = "en"
