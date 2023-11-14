@@ -15,13 +15,8 @@ style = "github-dark"
   author = "Dominik Horváth"
   info = "Full Stack Developer"
   description = "Personal website of Dominik Horváth"
-  # keywords = "blog,developer,personal"
   avatarurl = "images/profile_pic.jpeg"
-  #gravatar = "john.doe@example.com"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
 
   since = 2023
 
@@ -30,11 +25,6 @@ style = "github-dark"
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
 
 # Social links
 [[params.social]]
