@@ -61,7 +61,7 @@ style = "github-dark"
 [[menu.main]]
   name = "CV"
   weight = 1
-  url = "/cv/"
+  url = "cv/"
 [[menu.main]]
   name = "Blog"
   weight = 2
