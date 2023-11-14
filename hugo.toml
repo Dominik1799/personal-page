@@ -52,7 +52,7 @@ style = "github-dark"
   weight = 2
   url = "https://www.linkedin.com/in/dominik-horv%C3%A1th-05aa61213/"
 [[params.social]]
-  name = "Twitter"
+  name = "Mail"
   icon = "fa fa-envelope-o fa-2x"
   weight = 3
   url = "mailto:dominik.horvath@gmail.com"
