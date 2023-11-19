@@ -56,7 +56,12 @@ url = "https://www.linkedin.com/in/dominik-horv%C3%A1th-05aa61213/"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "CV"
+name = "Projects"
 weight = 1
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "CV"
+weight = 2
 url = "cv/"
 
