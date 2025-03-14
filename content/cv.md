@@ -14,9 +14,16 @@ showTableOfContents = true
 I got my bachelor's and master's degree here. Master's thesis focused on Data lake development with the use of GenAI
 
 ## Work experience
+
+### NextIT - Java backend developer + DevOps engineer
+
+*(02/2024 - present)*
+
+TODO: fill in
+
 ### PwC - Java backend developer
 
-*(02/2023 - present)*
+*(02/2023 - 02/2024)*
 
 My current job, working on microservices created in Java and Spring Boot. I work on a big project for US client, which is surprisingly using a lot of modern technologies - we are using **Java 17** with **Spring Boot 3**, kubernetes infrastructure on **Azure** and **Azure pipelines** automating pretty much the whole software lifecycle. Other than Java I also did some one-time scripting jobs in bash or Python - stuff like migrating data from one database to another, transforming some data etc.
 
