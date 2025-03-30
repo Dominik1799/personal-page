@@ -4,7 +4,7 @@ date = "2023-11-11"
 title = "PWC work projects"
 +++
 
-See also: [PWC part in my CV](/personal-page/cv/#pwc---java-backend-developer)
+See also: [PWC part in my CV](/cv/#pwc---java-backend-developer)
 
 In PWC I am currently working on various Java Spring Boot micro-services. They are part of a larger project that is the main focus of tens of developers, QA teams, product owners, scrum masters etc. The main focus of this project is to provide a platform for clients to work with data - share it, analyze it, create reports from it etc. So the emphasis is on speed, safety and good user experience. 
 

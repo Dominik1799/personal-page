@@ -4,7 +4,7 @@ date = "2023-01-02"
 title = "IBM work projects"
 +++
 
-See also: [IBM part in my CV](/personal-page/cv/#ibm-slovakia---devops-engineer)
+See also: [IBM part in my CV](/cv/#ibm-slovakia---devops-engineer)
 
 In IBM I was a Java DevOps engineer on a German government project. I was using german language on almost daily basis, which forced me to improve myself in it to somewhat acceptable level, but I still wouldn't call myself anywhere good in it. But I significantly improved in my "systems infrastructure skills" (no idea what else to call it sorry) - linux, docker, automation, stuff like that. Before I was the kind of guy that had to google how to exit vim. But, the nature of the project forced me to learn in this department very quickly. We were essentialy maintaining very legacy application (in our version control, I found some code that was more than 20 years old) that was running in classic linux VMs. 
 
