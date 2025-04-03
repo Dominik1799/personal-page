@@ -50,6 +50,12 @@ icon = "fa fa-2x fa-linkedin"
 weight = 3
 url = "https://www.linkedin.com/in/dominik-horv%C3%A1th-05aa61213/"
 
+[[params.social]]
+name = "Resume"
+icon = "fa fa-2x fa-file-pdf"
+weight = 3
+url = "/resume/dominik-horvath-resume.pdf"
+
 
 
 [languages.en]
@@ -61,7 +67,9 @@ weight = 1
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "CV"
+name = "Download my resume"
 weight = 2
-url = "cv/"
+url = "/resume/dominik-horvath-resume.pdf"
+type = "application/pdf"
+target = "_blank"
 
