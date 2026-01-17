@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: personal-page-deployment
+  namespace: personal-page
+  labels:
+    app: personal-page
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: personal-page
+  template:
+    metadata:
+      labels:
+        app: personal-page
+    spec:
+      containers:
+      - name: personal-page
+        image: dominik9917/personal-page:latest
+        ports:
+        - containerPort: 80

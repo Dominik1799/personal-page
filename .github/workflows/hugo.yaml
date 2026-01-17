@@ -26,17 +26,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            dominik9917/personal-page:latest
-
-      - name: Deploy
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.DEPLOY_SERVER_IP }}
-          port: ${{ secrets.DEPLOY_SERVER_SSH_PORT }}
-          username: ${{ secrets.DEPLOY_SERVER_USER }}
-          password: ${{ secrets.DEPLOY_SERVER_USER_PASSWORD }}
-          script: |
-            cd ~/infrastructure
-            docker compose pull personal-page
-            docker compose up --force-recreate --no-deps personal-page -d
-            docker image prune -af
+            dominik9917/personal-page:ver-${{ github.run_number }}
+            dominik9917/personal-page: latest
