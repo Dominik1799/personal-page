@@ -1,9 +1,11 @@
-name: Deploy Hugo site to Pages
+name: Build and deploy personal web
 
 on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'k8s-deploy'
   workflow_dispatch:
 
 jobs:
@@ -27,4 +29,4 @@ jobs:
           push: true
           tags: |
             dominik9917/personal-page:ver-${{ github.run_number }}
-            dominik9917/personal-page: latest
+            dominik9917/personal-page:latest
