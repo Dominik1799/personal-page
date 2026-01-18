@@ -28,5 +28,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            dominik9917/personal-page:ver-${{ github.run_number }}
+            dominik9917/personal-page:v-${{ github.run_number }}
             dominik9917/personal-page:latest
