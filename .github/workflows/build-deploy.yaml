@@ -16,6 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
+      CONTAINER_NAME: personal-page
       IMAGE_NAME: dominik9917/personal-page
       IMAGE_TAG: v-${{ github.run_number }}
       TARGET_FILE_LOCATION: k8s-deploy/deployment.yaml
@@ -46,7 +47,7 @@ jobs:
         run: |
           yq -i '
             .spec.template.spec.containers[]
-            |= select(.name == "personal-page")
+            |= select(.name == "${{ env.CONTAINER_NAME }}")
             .image = "${{ env.IMAGE_NAME }}:${{ env.IMAGE_TAG }}"
           ' ${{ env.TARGET_FILE_LOCATION }}
 
