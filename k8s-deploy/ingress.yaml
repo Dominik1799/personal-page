@@ -3,6 +3,8 @@ kind: Ingress
 metadata:
   name: personal-page-ingress
   namespace: personal-page
+  annotations:
+    traefik.ingress.kubernetes.io/router.middlewares: kube-system-global-redirect-https@kubernetescrd
 spec:
   ingressClassName: traefik
   tls:
