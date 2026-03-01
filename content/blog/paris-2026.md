@@ -79,4 +79,4 @@ Based on my experience, here are my recommendations if you plan to visit paris
 
 ## TL;DR
 
-It's very good, definitely recommended. Only 1 rat seen. No bedbugs (as far as I know).
+It's very good, definitely recommend. Only 1 rat seen. No bedbugs (as far as I know).
