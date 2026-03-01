@@ -64,13 +64,18 @@ url = "/resume/dominik-horvath-resume.pdf"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "Blog"
 weight = 1
+url = "blog/"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 2
 url = "projects/"
 
 [[languages.en.menu.main]]
 name = "Download my resume"
-weight = 2
+weight = 3
 url = "/resume/dominik-horvath-resume.pdf"
 type = "application/pdf"
 target = "_blank"
