@@ -17,7 +17,7 @@ The Seine river was an ever-present entity during our visit, as basically all th
 
 ![Alexanders bridge](/images/paris2026/alexander-bridge.jpg)
 
-This however hasn't stopped the people in Paris to enjoy the unusual vibe of this waterfront promenade. 
+This however did not stop the people in Paris to enjoy the unusual vibe of this waterfront promenade. 
 
 ![Couple sitting next to Seine](/images/paris2026/couple-sitting.jpg)
 
