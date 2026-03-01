@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: personal-page
-          image: dominik9917/personal-page:v-10
+          image: dominik9917/personal-page:v-11
           ports:
             - containerPort: 80
