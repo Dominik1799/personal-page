@@ -13,7 +13,7 @@ This February, my girlfriend and I visited Paris for the first time. I must say 
 ## The good
 The city looks incredible. It's basically the classic European architecture turned up to 11. I loved how all the buildings in the "central" districts had [dozens of small chimneys](https://focusasiatravel.com/the-story-of-the-chimneys-on-paris-rooftops/) on their rooftops. 
 
-The Seine river was an ever-present entity during our visit, as basically all the "main" stuff in Paris is built around it. During our visit the river was even more noticable because of the slight floodding that's been happening in Paris - some paths were closed of because the river has consumed them, either partially or completely. 
+The Seine river was an ever-present entity during our visit, as basically all the "main" stuff in Paris is built around it. During our visit the river was even more noticable because of the slight flooding that's been happening in Paris - some paths were closed of because the river has consumed them, either partially or completely. 
 
 ![Alexanders bridge](/images/paris2026/alexander-bridge.jpg)
 
